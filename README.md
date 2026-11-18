@@ -16,11 +16,11 @@ Roteiro de **Roberto Pazzini**.
 
 | Card | O que é |
 | --- | --- |
-| **Série** | Logline, sinopse, premissa, ideia controladora, temas, tom, referências, linguagem visual, estrutura (Jornada do Herói e McKee), cenários, os 12 argumentos, a leitura dos roteiros, riscos, perguntas estratégicas, inconsistências e sugestões para a escaleta |
-| **Episódios** | Os 12 capítulos: título, teaser, resumo, escaleta cena a cena, roteiro completo, papéis dos personagens, perguntas do especialista, furos do roteiro, diferenças entre escaleta e roteiro, melhorias e sugestão |
+| **Série** | Logline, sinopse, premissa, ideia controladora, temas, tom, referências, linguagem visual, estrutura (Jornada do Herói e McKee), cenários, os 12 argumentos, a leitura dos roteiros, riscos, perguntas estratégicas, inconsistências e sugestões para a escaleta, cada item com a cena e a página onde aparece |
+| **Episódios** | Os 12 capítulos: título, teaser, resumo, escaleta cena a cena, roteiro completo, papéis dos personagens, perguntas do especialista, furos do roteiro, diferenças entre escaleta e roteiro, melhorias e sugestão, cada item com a cena e a página do roteiro e a cena da escaleta |
 | **Personagens** | Fichas com retrato, perfil completo, leitura psicológica, trajetória episódio a episódio e dúvidas |
 | **Glossário** | Termos de roteiro, cada um exemplificado dentro da própria série |
-| **Storyboard** | Painéis por episódio, com plano, movimento, transição e ação |
+| **Storyboard** | Um painel por cena (256 no total), com a ação, o plano e o movimento, o porquê da escolha, luz e som, a transição e a localização no roteiro e na escaleta |
 | **Pergunte ao Diretor** | Perguntas e respostas sobre a série (só dentro do Claude) |
 | **Roteirizando** | Aula de roteiro com professor (só dentro do Claude) |
 | **Arquivos** | Importa roteiros e escaletas para atualizar os cards |
@@ -111,7 +111,7 @@ Detalhes em [ESTRUTURA.md](ESTRUTURA.md).
 | Perguntas do especialista | 103 |
 | Furos e inconsistências registrados nos capítulos | 94 |
 | Melhorias sugeridas | 57 |
-| Painéis de storyboard | 100 |
+| Painéis de storyboard | 256 (um por cena) |
 | Termos no glossário | 57 |
 | Texto dos roteiros embutido | ~520 mil caracteres |
 
