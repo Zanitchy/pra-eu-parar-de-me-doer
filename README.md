@@ -109,7 +109,6 @@ Detalhes em [ESTRUTURA.md](ESTRUTURA.md).
 | Cenas nas escaletas | 232 |
 | Páginas de roteiro | 711 |
 | Personagens fichados | 25 |
-| Perguntas do especialista | 103 |
 | Furos e inconsistências registrados nos capítulos | 94 |
 | Melhorias sugeridas | 57 |
 | Painéis de storyboard | 256 (um por cena) |
