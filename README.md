@@ -20,6 +20,7 @@ Roteiro de **Roberto Pazzini**.
 | **Episódios** | Os 12 capítulos: título, teaser, resumo, escaleta cena a cena, roteiro completo, papéis dos personagens, perguntas do especialista, furos do roteiro, diferenças entre escaleta e roteiro, melhorias e sugestão, cada item com a cena e a página do roteiro e a cena da escaleta |
 | **Personagens** | Fichas com retrato, perfil completo, leitura psicológica, trajetória episódio a episódio e dúvidas |
 | **Glossário** | Termos de roteiro, cada um exemplificado dentro da própria série |
+| **Dúvidas do especialista** | As 216 perguntas do especialista (série, episódios e personagens) num lugar só, cada uma com a situação no roteiro, onde aparece, o espaço para a resposta do autor e o histórico. Dentro do Claude, reavalia as dúvidas depois de mudanças no roteiro e levanta dúvidas novas |
 | **Storyboard** | Um painel por cena (256 no total), com a ação, o plano e o movimento, o porquê da escolha, luz e som, a transição e a localização no roteiro e na escaleta |
 | **Pergunte ao Diretor** | Perguntas e respostas sobre a série (só dentro do Claude) |
 | **Roteirizando** | Aula de roteiro com professor (só dentro do Claude) |
@@ -112,6 +113,7 @@ Detalhes em [ESTRUTURA.md](ESTRUTURA.md).
 | Furos e inconsistências registrados nos capítulos | 94 |
 | Melhorias sugeridas | 57 |
 | Painéis de storyboard | 256 (um por cena) |
+| Dúvidas do especialista | 216 (48 respondidas, 168 pendentes na leitura inicial) |
 | Termos no glossário | 57 |
 | Texto dos roteiros embutido | ~520 mil caracteres |
 
