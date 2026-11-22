@@ -22,6 +22,11 @@ Roteiro de **Roberto Pazzini**.
 | **Glossário** | Termos de roteiro, cada um exemplificado dentro da própria série |
 | **Dúvidas do especialista** | As 216 perguntas do especialista (série, episódios e personagens) num lugar só, cada uma com a situação no roteiro, onde aparece, o espaço para a resposta do autor e o histórico. Dentro do Claude, reavalia as dúvidas depois de mudanças no roteiro e levanta dúvidas novas |
 | **Sugestões criativas** | 11 ideias do especialista (6 para a série, 5 para a Sala), cada uma com o que resolve, as dúvidas que ajuda a fechar, onde entra no roteiro e o espaço para a sua decisão |
+| **Mapa de pistas** | 30 pistas com onde são plantadas e onde são pagas nos 12 episódios; as soltas em vermelho, com registro de pagamento ou corte |
+| **Linha do tempo e idades** | De 1787 ao epílogo, com anos de nascimento editáveis, idades calculadas e conferência das contas dos roteiros |
+| **Minutagem por episódio** | Páginas viram minutos, com a meta de 45, as cenas mais longas e estimativa para roteiros reimportados |
+| **Comparar versões** | Escaleta × roteiro cena a cena e versões anteriores do histórico, com diferenças palavra a palavra |
+| **Pasta de pitch** | Página para produtoras e editais, montada com o que está na Sala, pronta para imprimir ou salvar em PDF |
 | **Storyboard** | Um painel por cena (256 no total), com a ação, o plano e o movimento, o porquê da escolha, luz e som, a transição e a localização no roteiro e na escaleta |
 | **Pergunte ao Diretor** | Perguntas e respostas sobre a série (só dentro do Claude) |
 | **Roteirizando** | Aula de roteiro com professor (só dentro do Claude) |
