@@ -21,6 +21,7 @@ Roteiro de **Roberto Pazzini**.
 | **Personagens** | Fichas com retrato, perfil completo, leitura psicológica, trajetória episódio a episódio e dúvidas |
 | **Glossário** | Termos de roteiro, cada um exemplificado dentro da própria série |
 | **Dúvidas do especialista** | As 216 perguntas do especialista (série, episódios e personagens) num lugar só, cada uma com a situação no roteiro, onde aparece, o espaço para a resposta do autor e o histórico. Dentro do Claude, reavalia as dúvidas depois de mudanças no roteiro e levanta dúvidas novas |
+| **Sugestões criativas** | 11 ideias do especialista (6 para a série, 5 para a Sala), cada uma com o que resolve, as dúvidas que ajuda a fechar, onde entra no roteiro e o espaço para a sua decisão |
 | **Storyboard** | Um painel por cena (256 no total), com a ação, o plano e o movimento, o porquê da escolha, luz e som, a transição e a localização no roteiro e na escaleta |
 | **Pergunte ao Diretor** | Perguntas e respostas sobre a série (só dentro do Claude) |
 | **Roteirizando** | Aula de roteiro com professor (só dentro do Claude) |
