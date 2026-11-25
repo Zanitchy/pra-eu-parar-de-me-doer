@@ -25,7 +25,7 @@ Roteiro de **Roberto Pazzini**.
 | **Mapa de pistas** | 30 pistas com onde são plantadas e onde são pagas nos 12 episódios; as soltas em vermelho, com registro de pagamento ou corte |
 | **Linha do tempo e idades** | De 1787 ao epílogo, com anos de nascimento editáveis, idades calculadas e conferência das contas dos roteiros |
 | **Minutagem por episódio** | Páginas viram minutos, com a meta de 45, as cenas mais longas e estimativa para roteiros reimportados |
-| **Comparar versões** | Escaleta × roteiro cena a cena e versões anteriores do histórico, com diferenças palavra a palavra |
+| **Comparar versões** | Cada uma das 256 cenas lado a lado: o texto do roteiro, a escaleta e uma escaleta sugerida pelo especialista, que pode ser copiada ou adotada; e as versões anteriores do histórico, com as diferenças marcadas |
 | **Pasta de pitch** | Página para produtoras e editais, montada com o que está na Sala, pronta para imprimir ou salvar em PDF |
 | **Storyboard** | Um painel por cena (256 no total), com a ação, o plano e o movimento, o porquê da escolha, luz e som, a transição e a localização no roteiro e na escaleta |
 | **Pergunte ao Diretor** | Perguntas e respostas sobre a série (só dentro do Claude) |
