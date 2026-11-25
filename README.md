@@ -86,7 +86,7 @@ A plataforma nasceu como artefato do Claude e roda nos dois lugares:
 
 Nesta cópia, os recursos de IA mostram um aviso em vez de falhar em silêncio. As edições feitas aqui ficam só no seu navegador; para levá-las adiante, use **Importar / Exportar**.
 
-Esta cópia é uma fotografia do artefato em 17/11/2026 e só é atualizada quando pedido.
+Esta cópia é uma fotografia do artefato em 25/11/2026 (com a V1 dos roteiros dos eps. 1–3) e só é atualizada quando pedido.
 
 ---
 
